@@ -18,7 +18,7 @@ public class CreateWebSource
 {
   public static void main(String[] args) throws Exception
   {
-    System.out.println( "" );
+    System.out.println( "This is my First java Program Test through GIT" );
  
     try
     {
