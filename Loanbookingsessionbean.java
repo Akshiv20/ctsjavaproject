@@ -6,6 +6,7 @@ import oracle.search.admin.api.ws.client.AdminService;
 import oracle.search.admin.api.ws.client.Credentials;
 import oracle.search.admin.api.ws.client.ObjectKey;
 import oracle.search.admin.api.ws.client.ObjectOutput;
+import oracle.search.admin.api.ws.client.Objectinput;
  
 import java.util.List;
 import java.net.URL;
